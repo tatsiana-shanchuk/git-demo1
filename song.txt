@@ -6,3 +6,7 @@ strochka nomer 6
 strochka nomer 7
 
 srochka nomer 8
+
+couplet nomer 2
+
+---------
