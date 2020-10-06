@@ -7,6 +7,7 @@ strochka nomer 7
 srochka nomer 8
 
 vtotoi couplet
-
+ 
+third one couplet 
 
 
